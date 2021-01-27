@@ -1,0 +1,118 @@
+[
+
+    {
+  
+      "id": 1,
+  
+      "foodType": "Chinese food",
+  
+      "location": "Block A"
+  
+      
+  
+    },
+  
+    {
+  
+      "id": 2,
+  
+      "foodType": "Sandwiches",
+  
+      "location": "Block D"
+  
+  
+    },
+  
+    {
+  
+      "id": 3,
+  
+      "foodType": "Patties and burgers",
+  
+      "location": "Block G"
+  
+    },
+  
+    {
+  
+      "id": 4,
+  
+      "foodType": "Coffee,tea and cakes",
+  
+      "location": "barakhamba Road in front of metro station"
+  
+  
+    },
+  
+    {
+  
+      "id": 5,
+  
+      "foodType": "India food Rajma, subji, roti, chawal,",
+  
+      "location": "KG Marg in front of British council"
+  
+  
+    },
+
+    {
+  
+        "id": 6,
+    
+        "foodType": "Chaat",
+    
+        "location": "Block N"
+    
+    
+      },
+
+
+
+      {
+  
+        "id":7,
+    
+        "foodType": "Chaat",
+    
+        "location": "near Shankar Market"
+    
+    
+      },
+
+
+
+
+      {
+  
+        "id": 8,
+    
+        "foodType": "Chinese food",
+    
+        "location": "in front of Mandi house"
+    
+    
+      },
+
+      {
+  
+        "id": 9,
+    
+        "foodType": "Patties and burgers",
+    
+        "location": "Block P"
+    
+    
+      },
+  
+      {
+  
+        "id": 10,
+    
+        "foodType": "Chinese food",
+    
+        "location": "Near Regal Cinema"
+    
+    
+      }
+
+  ]
